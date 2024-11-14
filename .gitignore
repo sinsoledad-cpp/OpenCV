@@ -1,0 +1,12 @@
+/.vs
+Debug/
+
+
+*.mp4
+*.Mp4
+*.avi
+
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
